@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PlasticBottleRecognize">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PlasticBottleRecognize.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
